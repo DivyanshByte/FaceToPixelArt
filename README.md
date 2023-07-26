@@ -1,7 +1,7 @@
 # FaceToPixelArt
-Convert Your Face to A Pixel Art!
+Convert Your Face to a Pixel Art!
 
 ------
 
-### It Also Make a Pixel Paint Art :)
-Download PixelPaint Here: https://github.com/DivyanshByte/PixelPaint
+### It also makes a PixelPaint Art File for further editing your pixel art :)
+Get PixelPaint From Here: https://github.com/DivyanshByte/PixelPaint  
