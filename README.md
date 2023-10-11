@@ -1,5 +1,5 @@
 # FaceToPixelArt
-Convert Your Face to a Pixel Art!
+Convert your face to a Pixel Art!
 
 ------
 
